@@ -1,3 +1,5 @@
+
+
 function MyInfo() {
     return (
 
@@ -22,7 +24,8 @@ function MyInfo() {
            
                 Phone Number: 425-365-9628 <br></br>
                 Email Address: rjmurphy1922@gmail.com<br></br>
-                Github URL : https://github.com/rjmurphy1922 (Link Below)
+                Github URL : https://github.com/rjmurphy1922 (Link Below)<br></br>
+                <a href="/documents/ryanjresume.docx">Resume </a>
 
                 </p><p />
               {/* <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> */}
