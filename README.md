@@ -30,7 +30,7 @@
   ## Technologiess
   React, JSX, CSS
 
-  ![alt text](https://github.com/rjmurphy1922/ReactPortfolio/blob/main/pportfolioscreenshot.png?raw=true)
+  ![alt text](https://github.com/rjmurphy1922/ReactPortfolio/blob/main/portfolioscreenshot.png?raw=true)
 
    ## Questions
 
